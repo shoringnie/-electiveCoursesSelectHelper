@@ -1,4 +1,4 @@
-# 公选评价系统_(Elective Courses Select Helper)_
+# 公选评价系统 _(Elective Courses Select Helper)_
 
 _This project conducted by IHAD works on a We-chat mini program to assist students of SYSU to select public electives, by giving multiple evaluations of the courses._
 
